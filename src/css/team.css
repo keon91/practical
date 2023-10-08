@@ -1,3 +1,27 @@
 .team {
-  background-color: grey;
+  margin: 0 auto;
+  width: 1280px;
+  padding: 80px 16px;
+  background-color: #00c5eb80;
+  text-align: center;
+}
+.team-list {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  margin: 0 auto;
+}
+
+.team-item {
+  outline: red;
+  flex-basis: calc(100% - 96px) / 4;
+}
+
+.team-title {
+  color: #000;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
 }
