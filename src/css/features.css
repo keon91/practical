@@ -1,3 +1,22 @@
 .features {
-  background-color: brown;
+  font-family: Inter;
+}
+.section {
+}
+.features-tile {
+  text-align: center;
+  margin-bottom: 16px;
+}
+.features-tile-desc {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.features-list {
+  display: flex;
+}
+.features-list-item {
+}
+.features-list-item-title {
+}
+.features-list-desc {
 }
