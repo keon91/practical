@@ -1,3 +1,29 @@
 .hero {
-    background-color: bisque;
+    background-color:#06071B;
+    color: #fff;
+    padding-top: 243px;
+    padding-left: 16px;
+
+}
+.hero-title{
+    font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.hero-text {
+    color: #FFF;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.hero-list {
+    color: #FFF;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
