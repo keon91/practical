@@ -1,3 +1,31 @@
 .benefits {
-  background-color: yellow;
+  background: #06071b;
+}
+.video {
+}
+.video-title {
+  color: #fff;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.video-text {
+  color: #fff;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.video-list {
+}
+.video-item {
+}
+.video-icon-svg {
+}
+.video-img {
+}
+.video-img-phone {
 }
